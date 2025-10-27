@@ -1,0 +1,14 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+pmdarima
+ta
+streamlit
+joblib
+openpyxl
+pandas_market_calendars
